@@ -33,19 +33,6 @@ FinTrack is a financial management application built with Next.js and Firebase. 
    npm install
    ```
 
-3. Set up Firebase:
-   - Create a Firebase project in the [Firebase Console](https://console.firebase.google.com/).
-   - Add a web app to your Firebase project and note the Firebase configuration details.
-   - Create a `.env.local` file in the root directory and add your Firebase configuration:
-     ```plaintext
-     NEXT_PUBLIC_FIREBASE_API_KEY=your_api_key
-     NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=your_auth_domain
-     NEXT_PUBLIC_FIREBASE_PROJECT_ID=your_project_id
-     NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=your_storage_bucket
-     NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=your_messaging_sender_id
-     NEXT_PUBLIC_FIREBASE_APP_ID=your_app_id
-     ```
-
 ## Usage Guidelines
 
 1. Start the development server:
