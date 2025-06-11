@@ -1,5 +1,9 @@
 # FinTrack
 
+<p align="center">
+  <img src="banner.jpg" alt="Banner">
+</p>
+
 FinTrack is a financial management application built with Next.js and Firebase. It provides users with a comprehensive overview of their financial status, including income, expenses, and savings. The app also includes an AI-powered financial advisor that offers personalized recommendations for saving and budgeting based on the user's tracked data.
 
 ## Core Features
